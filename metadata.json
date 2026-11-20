@@ -1,0 +1,6 @@
+{
+  "name": "सारथी AI",
+  "description": "सारथी AI - हिंदी वॉयस असिस्टेंट जो कॉलिंग, मैसेजिंग, व्हाट्सएप, अलार्म, रिमाइंडर और आसान टेक गाइड्स में आपकी मदद करता है।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
